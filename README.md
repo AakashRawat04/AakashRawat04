@@ -3,7 +3,7 @@
 
 - **🌱 I'm currently learning java and other programming laguages to ease up my work flow.**
 
-- **👨‍💻 All of my projects are available at [Github Profile](github.com/tripsterxx)**
+- **👨‍💻 All of my projects are available at my [Github Profile](github.com/tripsterxx)**
 
 - **📫 Connect with me --> [Instagram](instagram.com/rawatasho4)**
 
