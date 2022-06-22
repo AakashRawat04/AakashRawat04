@@ -5,6 +5,6 @@
 
 - **👨‍💻 All of my projects are available at my [Github Profile](github.com/tripsterxx)**
 
-- **📫 Connect with me --> [Instagram](instagram.com/rawatasho4)**
+- **📫 Connect with me --> [Instagram](https://www.instagram.com/rawatash04/)**
 
 - ⚡ Fun fact **I guess I'm funny**
