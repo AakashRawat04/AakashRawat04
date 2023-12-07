@@ -7,6 +7,6 @@
 
 - **📫 Connect with me --> [Instagram](https://www.instagram.com/rawatash04/)**
 
-- **🖥️ Portfolio: https://ashs-portfolio.netlify.app/**
+- **🖥️ Portfolio: https://aakashrawat.tech/**
 
 - ⚡ Fun fact **I guess I'm funny**
