@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aakash, and I like to code.</h1>
-<h3 align="center">I'm currently a computer science student and honing my programming skills. I'm extremely passionate about solving real-world problems that can help many people save their precious time.</h3>
+<h1 align="center">Hi 👋, I'm Aakash, and I think, i like to code.</h1>
+<h3 align="center">I'm currently a final year computer science student.</h3>
 
-- **🌱 I'm currently working with multiple programmming languages to ease up my work flow.**
-
-- **👨‍💻 All of my projects are available at my [Github Profile](github.com/tripsterxx)**
-
-- **📫 Connect with me --> [Instagram](https://www.instagram.com/rawatash04/)**
-
-- **🖥️ Portfolio: https://aakashrawat.tech/**
-
-- ⚡ Fun fact **I guess I'm funny**
+- i like to engineer stuff, build it from scratch when i get time. 
+- where do i see myself 30 years down the line? farming :)
